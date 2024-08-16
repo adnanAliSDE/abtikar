@@ -1,3 +1,6 @@
+'''
+A basic AI chatbot based on google ai api.Just created for learning purpose.I know it's weird but I have just put it here for future uses if it will be needed
+'''
 import os
 from dotenv import load_dotenv
 
